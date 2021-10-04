@@ -9,10 +9,10 @@ ___
 - 💬 Ask me about anything and i will be happy you help!
 - ⚡ Fun fact: i like surfing and training at the gym!
 ---
-### contact me:
-[<img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/protfolio.png"/>][protfolio]
-[<img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/instagram.png"/>][instagram]
-[<img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/facbook.png"/>][facebook]
+### connect with me:
+[<img align="center" alt="protfolio" width="24px" src="https://github.com/rawi123/images/blob/main/protfolio.png"/>][protfolio]
+[<img align="center" alt="instagram" width="22px" src="https://github.com/rawi123/images/blob/main/instagram.png"/>][instagram]
+[<img align="center" alt="facebook" width="30px" src="https://github.com/rawi123/images/blob/main/facbook.png"/>][facebook]
 
 ---
 #### Programing languages:
