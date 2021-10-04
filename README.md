@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**rawi123/rawi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is **Rawi Lahyani** I am a webdeveloper and a programer!
+___
+#### Programing languages:
+1. javascripts
+2. html
+3. Css
+4. python
+#### languages i speak fluently
+1. english
+2. arabic
+3. hebrew
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently Learning Website Development ...
+- 👯 I’m looking to collaborate on projects that makes me better!
+- 💬 Ask me about anything and i will be happy you help!
+- ⚡ Fun fact: i like surfing and training at the gym!
+
