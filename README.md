@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is **Rawi Lahyani** I am a webdeveloper and a programer!
+My name is **[Rawi Lahyani](https://rawi-protfolio.netlify.app/ "Personal Protfolio")**  a passionate full stack web developer and a freelance software engineer from Israel.
 ___
 
 - 🔭 I’m currently Learning Website Development ...
@@ -10,12 +10,13 @@ ___
 - ⚡ Fun fact: i like surfing and training at the gym!
 ---
 ### connect with me:
-[<img align="center" alt="protfolio" width="24px" src="https://github.com/rawi123/images/blob/main/protfolio.png"/>][protfolio]
-[<img align="center" alt="instagram" width="22px" src="https://github.com/rawi123/images/blob/main/instagram.png"/>][instagram]
-[<img align="center" alt="facebook" width="30px" src="https://github.com/rawi123/images/blob/main/facbook.png"/>][facebook]
+[<img align="left" alt="protfolio" width="24px" src="https://github.com/rawi123/images/blob/main/protfolio.png"/>][protfolio]
+[<img align="left" alt="instagram" width="24px" src="https://github.com/rawi123/images/blob/main/instagram.png"/>][instagram]
+[<img align="left" alt="facebook" width="24px" src="https://github.com/rawi123/images/blob/main/facebook.png"/>][facebook]
+<br />
 
----
 #### Programing languages:
+<!--  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 1. javascript <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/js.png"/>
 3. html <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/html.png"/>
 4. Css <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/css.png"/>
