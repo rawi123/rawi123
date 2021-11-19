@@ -17,11 +17,13 @@ ___
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 #### Programing languages:
 
-1. javascript <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/js.png"/>
-3. html <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/html.png"/>
+1. Javascript <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/js.png"/>
+3. Html <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/html.png"/>
 4. Css <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/css.png"/>
 5. React <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/react.png"/>
-6. python <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/python.png"/>
+6. Python <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/python.png"/>
+7. Node JS <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/nodejs.png"/>
+8. Mongo DB <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/mongodb.png"/>
 ---
 #### languages i speak fluently
 1. english
