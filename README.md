@@ -21,7 +21,7 @@ ___
 2. Typescript <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/typescript.png"/>
 3. Node JS <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/nodejs.png"/>
 4. React <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/react.png"/>
-5. Mysql <img align="center" width="26px" sec="https://github.com/rawi123/images/blob/main/mysq.png"/>
+5. Mysql <img align="center" width="26px" sec="https://github.com/rawi123/images/blob/main/mysql.png"/>
 5. Html <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/html.png"/>
 6. Css <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/css.png"/>
 7. Python <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/python.png"/>
