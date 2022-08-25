@@ -15,17 +15,19 @@ ___
 [<img align="left" alt="facebook" width="24px" src="https://github.com/rawi123/images/blob/main/facebook.png"/>][facebook]
 <br />
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-#### Programing languages:
+#### Programing languages/services:
 
 1. Javascript <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/js.png"/>
 2. Typescript <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/typescript.png"/>
 3. Node JS <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/nodejs.png"/>
 4. React <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/react.png"/>
-5. Mysql <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/mysql.png"/>
-5. Html <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/html.png"/>
-6. Css <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/css.png"/>
-7. Python <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/python.png"/>
-8. Mongo DB <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/mongodb.png"/>
+5. Mysql <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/mysql2.png"/>
+6. Redis <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/redis.png"/>
+7. S3 <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/s3.png"/>
+8. Html <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/html.png"/>
+9. Css <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/css.png"/>
+10. Python <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/python.png"/>
+11. Mongo DB <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/mongodb.png"/>
 ---
 #### languages i speak fluently
 1. english
