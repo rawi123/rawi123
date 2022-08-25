@@ -18,11 +18,13 @@ ___
 #### Programing languages:
 
 1. Javascript <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/js.png"/>
-3. Html <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/html.png"/>
-4. Css <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/css.png"/>
-5. React <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/react.png"/>
-6. Python <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/python.png"/>
-7. Node JS <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/nodejs.png"/>
+2. Typescript <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/typescript.png"/>
+3. Node JS <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/nodejs.png"/>
+4. React <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/react.png"/>
+5. Mysql <img align="center" width="26px" sec="https://github.com/rawi123/images/blob/main/mysq.png"/>
+5. Html <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/html.png"/>
+6. Css <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/css.png"/>
+7. Python <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/python.png"/>
 8. Mongo DB <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/mongodb.png"/>
 ---
 #### languages i speak fluently
