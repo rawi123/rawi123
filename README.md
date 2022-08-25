@@ -11,6 +11,7 @@ ___
 ---
 ### connect with me:
 [<img align="left" alt="protfolio" width="24px" src="https://github.com/rawi123/images/blob/main/protfolio.png"/>][protfolio]
+[<img align="left" alt="linkedin" width="24px" src="https://github.com/rawi123/images/blob/main/linkedin.png"/>][protfolio]
 [<img align="left" alt="instagram" width="24px" src="https://github.com/rawi123/images/blob/main/instagram.png"/>][instagram]
 [<img align="left" alt="facebook" width="24px" src="https://github.com/rawi123/images/blob/main/facebook.png"/>][facebook]
 <br />
@@ -35,6 +36,7 @@ ___
 3. hebrew
 
 [protfolio]: https://rawi-protfolio.netlify.app/ "Rawi Lahiany protfolio"
+[linkedin]: https://www.linkedin.com/in/rawi-lahiani/ "Rawi Lahiany linkedin"
 [facebook]: https://www.facebook.com/rawi.lahyani "Rawi Lahiany facebook"
 [instagram]: https://www.instagram.com/rawi_lahiany/ "Rawi Lahiany instagram"
 <!-- [linkedin]: "Rawi Lahiany linkedin" -->
