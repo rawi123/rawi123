@@ -4,7 +4,7 @@
 My name is **[Rawi Lahyani](https://rawi-protfolio.netlify.app/ "Personal Protfolio")**  a passionate full stack web developer and a freelance software engineer from Israel.
 ___
 
-- 🔭 I’m currently Learning Website Development ...
+- 🔭 Currently I’m a Website Developer ...
 - 👯 I’m looking to collaborate on projects that makes me better!
 - 💬 Ask me about anything and i will be happy to help!
 - ⚡ Fun fact: i like surfing and training at the gym!
